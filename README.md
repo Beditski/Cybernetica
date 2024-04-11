@@ -28,7 +28,7 @@ gradlew bootRun # Starts the application on a local network.
 # Summary
 | Question                                 | Answer |
 |------------------------------------------|--------|
-| Time  spent (h)                          | 7.5h   |
+| Time  spent (h)                          | 8h     |
 | Hardest task, (with reasoning)           | -      |
 | Uncompleted tasks, if any                | -      |
 | Additional dependencies (with reasoning) | -      | 
